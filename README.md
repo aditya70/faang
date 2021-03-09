@@ -4,3 +4,6 @@
 * [Github Repo](https://github.com/neerazz/FAANG)
 * https://github.com/kunal-kushwaha/Competitive-Programming-Resources
 * https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE
+
+## Competitive programming:
+* https://github.com/FazeelUsmani/Scaler-Academy
