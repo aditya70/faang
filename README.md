@@ -1,7 +1,7 @@
 # faang
 
 # Github repo for preparation:
-https://github.com/neerazz/FAANG
+[Github Repo] (https://github.com/neerazz/FAANG)
 
 https://github.com/kunal-kushwaha/Competitive-Programming-Resources
 
